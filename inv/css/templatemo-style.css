@@ -558,6 +558,10 @@ figure.effect-julia:hover p {
 }
 
 @media (max-width: 834px) {
+    .intro-full {
+        width: 100%;
+    }
+
     .intro-left {
         width: 65%;
     }
